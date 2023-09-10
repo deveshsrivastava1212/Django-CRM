@@ -15,5 +15,5 @@ cursorObject.execute("CREATE DATABASE CRM_DB")
 print("ALL DONE")
 
 # django administration credentials
-#username: admin123
-#password: admin123
+#username: admin
+#password: admin12345
